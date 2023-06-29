@@ -1,6 +1,6 @@
 # link github
 
-{@Git :(https://github.com/vuthang123/Reference-Markdown.git)}
+{@Git : https://github.com/vuthang123/Reference-Markdown.git }
 
 # Tiêu đề
 
